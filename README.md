@@ -4,7 +4,7 @@
 
 ## Issues Encountered
 
-There were no major issues, there was no lack of documentation available on the dataset. The only quirk was the notebook in which I found inspiration was written in R, but as I mentioned on my notebook : 'That was not an issue'.
+There were no major issues, there was no lack of documentation available on the dataset and different analysis. The only quirk was the notebook in which I found inspiration was written in R, but as I mentioned on my notebook : '... not an issue'.
 
 
 ## Lessons Learned
